@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 <ul>
 
 <li>
-<a href="https://linkedin.com/in/jonasbakkenengen" target="_blank">
+<a href="https://linkedin.com/in/jonasbakkenengen/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
