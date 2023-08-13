@@ -40,7 +40,7 @@
 
 <br>   
 <!--
-- **Front-End Development**:
+- **Front-End Development**: -->
 
    [//]:![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    [//]:![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -48,7 +48,7 @@
    [//]:![VUe.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 <br>
--->
+
 - **Cloud Hosting**:
 
     ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
