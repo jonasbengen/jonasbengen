@@ -146,5 +146,6 @@
 
 <br>
 
-Credit: [Jonas Bakken Engen](https://github.com/jonasbengen)
+<!--Credit: [Jonas Bakken Engen](https://github.com/jonasbengen)-->
+
 
