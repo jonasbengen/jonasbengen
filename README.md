@@ -13,8 +13,8 @@
 	
 ## <picture><img src = "https://github.com/jonasbengen/jonasbengen/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-
-<picture> <img align="right" src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/jonasbengen/jonasbengen/raw/main/assets/mdImages/programming.svg" width = 250px></picture>
+<!--<picture> <img align="right" src="https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966" width = 250px></picture> -->
 <br>
 
 - Student at HVL in Bergen
